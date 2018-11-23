@@ -60,6 +60,7 @@
 #include <langinfo.h>
 #include <locale.h>
 #include <libgen.h>
+#include <sys/sysmacros.h> /* major */
 
 #include "macro.h"
 #include "util.h"

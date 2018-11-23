@@ -28,6 +28,7 @@
 #include <stdbool.h>
 #include <sys/stat.h>
 #include <sys/param.h>
+#include <sys/sysmacros.h> /* major */
 
 #include "libudev.h"
 #include "libudev-private.h"

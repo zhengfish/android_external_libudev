@@ -26,6 +26,7 @@
 #include <fcntl.h>
 #include <string.h>
 #include <sys/stat.h>
+#include <sys/sysmacros.h> /* major */
 
 #include "libudev.h"
 #include "libudev-private.h"
